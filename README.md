@@ -1,2 +1,2 @@
-# CLCDMX
-Light pollution analysis in Mexico City
+# SQM
+Analysis of SQM data
