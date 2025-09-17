@@ -1,2 +1,2 @@
 # SQM
-Analysis of SQM data
+SQM data analysis
